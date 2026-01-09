@@ -101,3 +101,10 @@ TI.25.A.2
 Teknik Informatika
 
 2026 🌸
+
+🎥 Dokumentasi & Demo
+
+📺 Video Penjelasan & Demo Program (YouTube)
+```
+👉 https://youtu.be/FVJzhbbMjuU?si=YnckVFTjkg_8wdFL
+```
